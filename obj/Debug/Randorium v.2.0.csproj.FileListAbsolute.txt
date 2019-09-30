@@ -1,0 +1,7 @@
+C:\Users\Valdemar\source\repos\Randorium v.2.0\bin\Debug\Randorium v.2.0.exe.config
+C:\Users\Valdemar\source\repos\Randorium v.2.0\bin\Debug\Randorium v.2.0.exe
+C:\Users\Valdemar\source\repos\Randorium v.2.0\bin\Debug\Randorium v.2.0.pdb
+C:\Users\Valdemar\source\repos\Randorium v.2.0\obj\Debug\Randorium v.2.0.csprojAssemblyReference.cache
+C:\Users\Valdemar\source\repos\Randorium v.2.0\obj\Debug\Randorium v.2.0.csproj.CoreCompileInputs.cache
+C:\Users\Valdemar\source\repos\Randorium v.2.0\obj\Debug\Randorium v.2.0.exe
+C:\Users\Valdemar\source\repos\Randorium v.2.0\obj\Debug\Randorium v.2.0.pdb

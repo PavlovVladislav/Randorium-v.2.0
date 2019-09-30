@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randorium v.2.0", "Randorium v.2.0.csproj", "{8DBECCBF-9BC1-402B-9542-7E2C95E7770D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DBECCBF-9BC1-402B-9542-7E2C95E7770D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBECCBF-9BC1-402B-9542-7E2C95E7770D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBECCBF-9BC1-402B-9542-7E2C95E7770D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBECCBF-9BC1-402B-9542-7E2C95E7770D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC99C016-FF9D-45B0-9C5C-5980D7B5AA54}
+	EndGlobalSection
+EndGlobal
